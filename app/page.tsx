@@ -6,6 +6,10 @@ import Footer from './components/lobby/Footer'
 export default function page() {
   return (
 
+
+
+
+    
     <div>
       <Lobby />
       {/* <ScreenNoti/> */}
